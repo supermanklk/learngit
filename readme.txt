@@ -10,8 +10,4 @@ Git is free software.
 
 创建新的分支
 
-<<<<<<< HEAD
-创建新的分支feature1
-=======
-创建新的分支feature1
->>>>>>> feature1
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
