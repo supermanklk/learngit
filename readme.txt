@@ -9,3 +9,5 @@ Git is free software.
 这是我第7次修改
 
 创建新的分支
+
+Creating a new branch is quick & simple.
